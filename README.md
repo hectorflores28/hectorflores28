@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hafgon28
 - 👀 I’m interested in HTML,CSS,JS,PHP,MySQL,Dev C++,DrJava,Python.
 - 🌱 I’m currently learning Web Development.
-- 💤 I’m studying Computer Systems Engineer.
+- 💤 I’m studying Software Engineer.
 - 💞️ I’m looking to learn on GitHub.
 - 📫 How to reach me ...
 - 🔡 https://codepen.io/hafgon28
