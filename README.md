@@ -5,8 +5,9 @@
 - 💞️ I’m looking to learn on GitHub.
 - 📫 How to reach me:
 - 🔡 https://codepen.io/hafgon28
-- :nerd_face: https://es.stackoverflow.com/users/239644/hafgon28
-- :astonished: https://sourceforge.net/u/hafgon28/profile
+- 🤓 https://es.stackoverflow.com/users/239644/hafgon28
+- 😲 https://sourceforge.net/u/hafgon28/profile
+
 
 <!---
 Hafgon28/Hafgon28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
