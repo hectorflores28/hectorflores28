@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hafgon28
-- 👀 I’m interested in HTML,CSS,JS,PHP,MySQL,Dev C++,DrJava,Python.
+- 👀 I’m interested in HTML,CSS,JS,PHP,SQL.
 - 🌱 I’m currently learning Web Development.
 - 💤 I’m studying Software Engineer.
 - 💞️ I’m looking to learn on GitHub.
@@ -7,7 +7,6 @@
 - 🔡 https://codepen.io/hafgon28
 - 🤓 https://es.stackoverflow.com/users/239644/hafgon28
 - 😲 https://sourceforge.net/u/hafgon28/profile
-
 
 <!---
 Hafgon28/Hafgon28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
