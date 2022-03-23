@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm @Hafgon28</h1>
 <h3 align="center">👀 I’m interested in HTML,CSS,JS,PHP,SQL</h3>
 <h3 align="center">🌱 I’m currently learning Web Development.</h3>
-<h3 align="center">💤 I’m studying Software Engineer.</h3>
+<h3 align="center">💤 I’m studying Software Engineer & IT.</h3>
 <h3 align="center">💞️ I’m looking to learn on GitHub.</h3>
 
 <h3 align="left">Connect with me:</h3>
