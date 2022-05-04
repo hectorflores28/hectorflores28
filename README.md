@@ -2,7 +2,7 @@
 Hafgon28/Hafgon28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">Hi 👋, I'm @Hafgon28</h1>
+<h1 align="center">Hi 👋, I'm Héctor</h1>
 <h3 align="center">👀 I’m interested in HTML,CSS,JS,PHP,SQL</h3>
 <h3 align="center">🌱 I’m currently learning Web Development.</h3>
 <h3 align="center">💤 I’m studying Software Engineer & IT.</h3>
