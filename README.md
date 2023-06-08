@@ -3,10 +3,10 @@ Hafgon28/Hafgon28 is a ✨ special ✨ repository because its `README.md` (this 
 --->
 <h1 align="center">Hola 👋 Soy Héctor</h1>
 
-<h2 align="center">Novato, en camino a ser Experto</h2>
-<h3 align="center">👀 I’m interested in python, c++, php as well as their frameworks flask, qt & laravel</h3>
-<h3 align="center">💤 I’m studying Software Engineer & IT.</h3>
-<h3 align="center">🌱 I’m currently learning Pentesting & Algorithms for Networking.</h3>
+<h2 align="center">Programador Junior</h2>
+<h3 align="center">👀 I’m interested in python, php, c++ as well as their frameworks flask, laravel & qt</h3>
+<h3 align="center">💤 I studied Software Engineer & IT.</h3>
+<h3 align="center">🌱 I’m currently learning FileMaker, Pentesting & Algorithms for Networking.</h3>
 <h3 align="center">💞️ I’m looking to learn on GitHub.</h3>
 
 <h3 align="left">Connect with me:</h3>
