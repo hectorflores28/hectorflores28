@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! 👋 Soy Héctor</h1>
 <h2 align="center">Desarrollador, Analista y Programador Versátil</h2>
-<h3 align="center">Actualmente, trabajo como Administrador de Sistemas Corporativos y Desarrollador de Software. Me especializo en FileMaker Pro, desarrollo web utilizando Laravel como Backend, y Pinia, Vue.js y Tailwind CSS para el Frontend. Me apasiona aprender y aplicar nuevas tecnologías en el desarrollo de soluciones innovadoras.</h3>
-<h3 align="center">Estoy interesado en expandir mis conocimientos sobre Python, PHP, así como frameworks como Laravel y Qt. Además, tengo un gran interés en ciberseguridad, redes y telecomunicaciones.</h3>
+<h3 align="center">Actualmente, trabajo como Administrador de Sistemas Corporativos y Desarrollador de Software. Me especializo en FileMaker Pro, desarrollo web utilizando VueJS junto con Tailwind CSS, Me apasiona aprender y aplicar nuevas tecnologías en el desarrollo de soluciones innovadoras.</h3>
+<h3 align="center">Estoy interesado en Python, OCR, automatización, inteligencia artificial (IA), tecnologías como Ollama y Deepseek, desarrollo de APIs e integraciones. Apex (Salesforce). Además, busco dominar JavaScript al punto de controlar tanto frontend como backend, adoptando ReactJS como mi principal framework. Mantengo un fuerte interés en ciberseguridad, redes y telecomunicaciones.</h3>
 <h3 align="center">Mi objetivo es seguir creciendo profesionalmente y contribuir activamente a proyectos de código abierto, mejorando mis habilidades continuamente.</h3>
 
 <h3 align="left">Conecta conmigo:</h3>
@@ -22,20 +22,23 @@
 
 <h3 align="left">Lenguajes y Herramientas:</h3>
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
   </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
@@ -50,6 +53,12 @@
 
 <h3 align="left">Tecnologías que ya no utilizo:</h3>
 <p align="left">
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
+  </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   </a>
@@ -62,13 +71,8 @@
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
   </a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
 </p>
+
 
 <h3 align="left">Experiencia:</h3>
 <ul>
