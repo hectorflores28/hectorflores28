@@ -1,8 +1,8 @@
-<h1 align="center">¡Hola! 👋 Soy Héctor</h1>
-<h2 align="center">Desarrollador, Analista y Programador Versátil</h2>
-<h3 align="center">Actualmente, trabajo como Administrador de Sistemas Corporativos y Desarrollador de Software. Me especializo en FileMaker Pro, desarrollo web utilizando VueJS junto con Tailwind CSS, Me apasiona aprender y aplicar nuevas tecnologías en el desarrollo de soluciones innovadoras.</h3>
-<h3 align="center">Estoy interesado en Python, OCR, automatización, inteligencia artificial (IA), tecnologías como Ollama y Deepseek, desarrollo de APIs e integraciones. Apex (Salesforce). Además, busco dominar JavaScript al punto de controlar tanto frontend como backend, adoptando ReactJS como mi principal framework. Mantengo un fuerte interés en ciberseguridad, redes y telecomunicaciones.</h3>
-<h3 align="center">Mi objetivo es seguir creciendo profesionalmente y contribuir activamente a proyectos de código abierto, mejorando mis habilidades continuamente.</h3>
+<h1 align="left">¡Hola! 👋 Soy Héctor</h1>
+<h2 align="left">Desarrollador, Analista y Programador Versátil</h2>
+<h3 align="left">Actualmente, trabajo como Administrador de Sistemas Corporativos y Desarrollador de Software. Me especializo en FileMaker Pro, desarrollo web utilizando VueJS junto con Tailwind CSS, Me apasiona aprender y aplicar nuevas tecnologías en el desarrollo de soluciones innovadoras.</h3>
+<h3 align="left">Estoy interesado en Python, OCR, automatización, inteligencia artificial (IA), tecnologías como Ollama y Deepseek, desarrollo de APIs e integraciones. Apex (Salesforce). Además, busco dominar JavaScript al punto de controlar tanto frontend como backend, adoptando ReactJS como mi principal framework. Mantengo un fuerte interés en ciberseguridad, redes y telecomunicaciones.</h3>
+<h3 align="left">Mi objetivo es seguir creciendo profesionalmente y contribuir activamente a proyectos de código abierto, mejorando mis habilidades continuamente.</h3>
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
