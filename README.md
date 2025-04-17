@@ -1,8 +1,8 @@
-<h1 align="left">¡Hola! 👋 Soy Héctor</h1>
-<h2 align="left">Desarrollador, Analista y Programador Versátil</h2>
-<h3 align="left">Actualmente, trabajo como Administrador de Sistemas Corporativos y Desarrollador de Software. Me especializo en FileMaker Pro, desarrollo web utilizando VueJS junto con Tailwind CSS, Me apasiona aprender y aplicar nuevas tecnologías en el desarrollo de soluciones innovadoras.</h3>
-<h3 align="left">Estoy interesado en Python, OCR, automatización, inteligencia artificial (IA), tecnologías como Ollama y Deepseek, desarrollo de APIs e integraciones. Apex (Salesforce). Además, busco dominar JavaScript al punto de controlar tanto frontend como backend, adoptando ReactJS como mi principal framework. Mantengo un fuerte interés en ciberseguridad, redes y telecomunicaciones.</h3>
-<h3 align="left">Mi objetivo es seguir creciendo profesionalmente y contribuir activamente a proyectos de código abierto, mejorando mis habilidades continuamente.</h3>
+<h1 align="center">¡Hola! 👋 Soy Héctor</h1>
+<h2 align="center">Desarrollador, Analista y Programador Versátil</h2>
+<h3 align="center">Actualmente, trabajo como Administrador de Sistemas Corporativos y Desarrollador de Software. Me especializo en FileMaker Pro, desarrollo web utilizando VueJS junto con Tailwind CSS, Me apasiona aprender y aplicar nuevas tecnologías en el desarrollo de soluciones innovadoras.</h3>
+<h3 align="center">Estoy interesado en Python, OCR, automatización, inteligencia artificial (IA), tecnologías como Ollama y Deepseek, desarrollo de APIs e integraciones. Apex (Salesforce). Además, busco dominar JavaScript al punto de controlar tanto frontend como backend, adoptando ReactJS como mi principal framework. Mantengo un fuerte interés en ciberseguridad, redes y telecomunicaciones.</h3>
+<h3 align="center">Mi objetivo es seguir creciendo profesionalmente y contribuir activamente a proyectos de código abierto, mejorando mis habilidades continuamente.</h3>
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
@@ -20,77 +20,28 @@
   </a>
 </p>
 
-<h3 align="left">Lenguajes y Herramientas:</h3>
-<p align="left">
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://www.claris.com/filemaker/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/F/filemaker-logo-B70D0BDB09-seeklogo.com.png" alt="FileMaker" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-  </a>
-</p>
+#### **Enfoques Principales**  
+![FileMaker Pro](https://img.shields.io/badge/FileMaker_Pro-FF6C37?style=flat&logo=filemaker&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-<h3 align="left">En Aprendizaje Activo:</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://developer.salesforce.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/salesforce/00A1E0" alt="Salesforce Apex" width="40" height="40"/>
-  </a>
-  <a href="https://ollama.ai" target="_blank" rel="noreferrer">
-    <img src="https://ollama.com/public/ollama.png" alt="Ollama" width="40" height="40"/>
-</p>
+#### **En Aprendizaje**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs)
+![Salesforce Apex](https://img.shields.io/badge/Salesforce_Apex-00A1E0?style=flat&logo=salesforce)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws)
 
-<h3 align="left">Tecnologías que ya no utilizo:</h3>
-<p align="left">
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" alt="laravel" width="40" height="40"/>
-</a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  </a>
-</p>
+#### **Interesado en la Innovación**  
+![AI/ML](https://img.shields.io/badge/IA-ML-FF6F00?style=flat&logo=openai)
+![OCR (Tesseract)](https://img.shields.io/badge/OCR-Tesseract-3D8FC4?style=flat)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
 
+#### **Herramientas**  
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux)
 
 <h3 align="left">Experiencia:</h3>
 <ul>
