@@ -36,6 +36,7 @@
 #### **Interesado en la Innovación**  
 ![AI/ML](https://img.shields.io/badge/IA-ML-FF6F00?style=flat&logo=openai)
 ![OCR (Tesseract)](https://img.shields.io/badge/OCR-Tesseract-3D8FC4?style=flat)
+![ASR (AudioSpeechRecognition)](https://img.shields.io/badge/ASR-AudioSpeechRecognition-3D8FC4?style=flat)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
 
