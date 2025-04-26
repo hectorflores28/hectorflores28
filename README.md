@@ -12,9 +12,6 @@
   <a href="https://www.leetcode.com/hectorflores28" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hafgon28" height="30" width="40" />
   </a>
-  <a href="https://stackoverflow.com/users/16574163/hafgon28" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16574163/hafgon28" height="30" width="40" />
-  </a>
   <a href="https://codepen.io/hafgon28" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="hafgon28" height="30" width="40" />
   </a>
