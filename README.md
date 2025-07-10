@@ -6,15 +6,18 @@
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/hectorflores28/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hector-flores-b70330228" height="30" width="40" />
-  </a>
-    <a href="https://codepen.io/hafgon28" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="hafgon28" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/hectorflores28" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hafgon28" height="30" width="40" />
-  </a>
+  <a href="https://linkedin.com/in/hectorflores28/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hector-flores-b70330228" height="30" width="40" />
+  </a>
+    <a href="https://codepen.io/hafgon28" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="hafgon28" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/hectorflores28" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hafgon28" height="30" width="40" />
+  </a>
+  <a href="https://www.salesforce.com/trailblazer/hectoflores28" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/salesforce.svg" height="30" width="40" />
+  </a>
 </p>
 
 #### **Enfoques Principales**  
