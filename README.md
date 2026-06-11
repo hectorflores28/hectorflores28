@@ -1,52 +1,76 @@
-<h1 align="center">¡Hola! 👋 Soy Héctor</h1>
-<h2 align="center">Ingeniero de Salesforce, Administrador de Sistemas y Desarrollador Versátil</h2>
+### <h1 align="center">¡Hola! 👋 Soy Héctor</h1>
+<h2 align="center">Ingeniero de Salesforce | Python, SQL & Integraciones IA | Especialista en Automatización (SecDevOps)</h2>
 
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGRxemFjNXJqbjNjeG92ZXY1YjZqemxwM2loZ3Z6bGpmamwzdmt2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" alt="Coding Monkey" width="600"/>
 </p>
-<h3 align="center">Bienvenido a mi rincón digital. Me apasiona construir soluciones que simplifiquen procesos y resuelvan problemas reales.</h3>
 
-<h3 align="center">Estoy interesado en Python, OCR, automatización, inteligencia artificial (IA), tecnologías como Ollama y Deepseek, desarrollo de APIs e integraciones, y Apex (Salesforce). Además, busco dominar JavaScript al punto de controlar tanto frontend como backend, adoptando ReactJS como mi principal framework. Mantengo un fuerte interés en ciberseguridad, redes y telecomunicaciones.</h3>
-<h3 align="center">Mi objetivo es seguir creciendo profesionalmente y contribuir activamente a proyectos de código abierto, mejorando mis habilidades continuamente.</h3>
+<h3 align="center">Transformando operaciones corporativas mediante infraestructuras de datos proactivas e Inteligencia Artificial.</h3>
+
+<p align="center">
+Mi objetivo no es solo administrar sistemas, sino transformarlos. Me especializo en el diseño de arquitecturas de datos, integrando el ecosistema corporativo de <b>Salesforce (Apex, LWC, Agentforce)</b> con pipelines de procesamiento externo utilizando <b>Python, Docker y microservicios (FastAPI / Model Context Protocol)</b>.
+</p>
 
 ---
 
 ## ⚡ Enfoque y Experiencia
 
-Actualmente, me desempeño como **Ingeniero de Salesforce** en **Grand Velas Riviera Nayarit**, donde aplico mis conocimientos en **administración de sistemas corporativos** y **desarrollo de software**. Mi principal objetivo es optimizar la eficiencia operativa y asegurar la integridad de los datos.
+Actualmente, me desempeño como **Ingeniero de Salesforce** y líder técnico en **Grand Velas Riviera Nayarit**. Combino la ingeniería de datos con soluciones de automatización empresarial para eliminar el trabajo manual, asegurar la integridad de la información y generar un impacto financiero medible.
 
-Mis principales áreas de especialización incluyen:
-- **Salesforce:** Administración, implementación de flujos (Flow Builder), creación de agentes con Agentforce y desarrollo de soluciones personalizadas con Apex.
-- **Desarrollo Web:** Me especializo en **Vue.js** y **Tailwind CSS**, y estoy en constante aprendizaje para dominar **ReactJS** y **JavaScript** en su totalidad.
-- **Automatización e Integraciones:** Implemento soluciones de automatización con Python y me interesa profundamente el desarrollo de APIs y la integración de sistemas.
+Mis principales áreas de acción incluyen:
+- **Arquitectura Híbrida:** Diseño de soluciones desacopladas combinando LWC, Apex asíncrono y contenedores Docker (Python/FastAPI) para extracción masiva de datos y ETL.
+- **Inteligencia Artificial y NLP:** Despliegue de modelos LLM locales (Ollama, DeepSeek), orquestación con **n8n** y procesamiento avanzado de datos (OCR/ASR con Faster-Whisper) para la auditoría automatizada de interacciones.
+- **Salesforce Avanzado:** Implementación de flujos complejos, Agentforce, Prompt Builder y optimización de bases de datos relacionales en sincronía con el CRM.
+
+---
+
+## 🚀 Proyectos Destacados
+
+- 🧠 **[OmniMCP-Container](https://github.com/hectorflores28/OmniMCP-Container):** Infraestructura local para IA. Contenedor Docker que integra MCP (Model Context Protocol) y APIs de Python para despliegue rápido de modelos.
+- ☁️ **[Agentforce-DX](https://github.com/hectorflores28/Agentforce-DX):** Showcase de Salesforce Agentforce. Integración de Agentes de IA para Hospitalidad y Dashboards de Real Estate utilizando Lightning Web Components (LWC).
+- 🛡️ **[WebAudit-Container](https://github.com/hectorflores28/WebAudit-Container):** Contenedor Docker para auditoría web y pentesting local seguro con entornos aislados Nginx.
+- 📊 **[ZenInvestSnap](https://github.com/hectorflores28/ZenInvestSnap):** Analizador visual financiero en Python. Captura, procesa mediante OCR y visualiza datos de forma automatizada.
+- 🏃 **[Django-Strava-Analytics](https://github.com/hectorflores28/Django-Strava-Analytics-Dashboard):** Pipeline visual de análisis de datos fitness y dashboards detallados procesados localmente.
 
 ---
 
 ## 🛠️ Tecnologías y Herramientas
 
-#### **Dominio Actual**
-![FileMaker Pro](https://img.shields.io/badge/FileMaker_Pro-FF6C37?style=flat&logo=filemaker&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
+#### **Ecosistema Salesforce & Backend**
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white)
+![Apex](https://img.shields.io/badge/Apex-1798C1?style=flat&logo=salesforce&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+#### **IA, Automatización & DevOps**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat&logo=n8n&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+![OpenAI](https://img.shields.io/badge/LLMs-412991?style=flat&logo=openai&logoColor=white)
+
+#### **Frontend & UI**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-#### **En Aprendizaje y Exploración**
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs)
-![Salesforce Apex](https://img.shields.io/badge/Salesforce_Apex-00A1E0?style=flat&logo=salesforce)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 
-#### **Interesado en la Innovación**
-![IA/ML](https://img.shields.io/badge/IA-ML-FF6F00?style=flat&logo=openai)
-![OCR (Tesseract)](https://img.shields.io/badge/OCR-Tesseract-3D8FC4?style=flat)
-![ASR (AudioSpeechRecognition)](https://img.shields.io/badge/ASR-AudioSpeechRecognition-3D8FC4?style=flat)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
+---
 
-#### **Herramientas**
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux)
+## 🏆 Certificaciones y Logros
+
+- **Salesforce Trailhead:**
+  - **Trailblazer Innovator 2026** (Rumbo a 4-Star Ranger).
+  - **9 Superbadges:** Agentforce for Service, Advanced Flow for Agentforce, Apex for Agentforce, Prompt Builder Templates, entre otros.
+  - **380+ Badges** y más de **169,000 puntos**.
+- **Lean Six Sigma:**
+  - **White Belt** (International Lean Six Sigma, May 2026).
+- **FileMaker Inc.:**
+  - **App Developer for Claris FileMaker Pro Specialist** (Oct 2023)
+  - **App Developer for Claris Connect Expert** (Dec 2023)
+- **Ciberseguridad:**
+  - Certificaciones técnicas avanzadas en Seguridad de Servidores, Redes y Detección de Amenazas por Cisco, Google y Kaspersky (2024-2025).
 
 ---
 
@@ -63,29 +87,6 @@ Mis principales áreas de especialización incluyen:
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hafgon28" height="30" width="40" />
   </a>
   <a href="https://www.salesforce.com/trailblazer/hectoflores28" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/salesforce.svg" height="30" width="40" />
+    <img align="center" src="https://camo.githubusercontent.com/27761ec29e319e4d9333933fb0af9a64ee489dbd01e161a24d5f64cd761311e6/687474703a2f2f777777322e736664637374617469632e636f6d2f636f6d6d6f6e2f6173736574732f696d672f6c6f676f2d636f6d70616e792e706e67" height="30" width="40" />
   </a>
 </p>
-
----
-
-## 🏆 Certificaciones y Logros
-
-- **Salesforce Trailhead:**
-  - **4 Superbadges:** Agentforce for Service Superbadge Unit, Advanced Flow for Agentforce, Apex for Agentforce y Prompt Builder Templates Superbadge Unit.
-  - **158 Badges** y **83,500 puntos** en Trailhead.
-  - **Status:** Me estoy preparando para el examen de Agentforce Specialist y estoy a un paso de conseguir la insignia de **Agentblazer Legend**.
-- **FileMaker Inc.:**
-  - **App Developer for Claris FileMaker Pro Specialist** (Oct 2023)
-  - **App Developer for Claris Connect Expert** (Dec 2023)
-- **Certificaciones en Ciberseguridad:** Google, Cisco y Kaspersky (2024).
-
----
-
-## 💼 Experiencia Profesional Reciente
-
-- **Ingeniero de Salesforce** en Grand Velas Riviera Nayarit (Jun 2025 - Actualidad)
-- **Administrador de Sistemas Corporativos** en Grand Velas Riviera Nayarit (May 2024 - May 2025)
-- **Software Developer** en Vida Vacations (Jun 2023 - Mar 2024)
-- **Becario de TI** en Universidad del Valle de Atemajac (Nov 2022 - May 2023)
-- **Becario de Desarrollo Web** en Govacaciones (Ene 2022 - Abr 2022)
