@@ -74,6 +74,16 @@ Mis principales áreas de acción incluyen:
 
 ---
 
+## Proximas Certificaciones
+
+- [ ]  Salesforce Certified Platform Administrator
+- [ ]  Salesforce Certified Platform App Builder
+- [ ]  Salesforce Certified Platform Developer I
+- [ ]  Salesforce Certified Agentforce Specialist
+- [ ]  Salesforce Certified Platform Developer II
+
+--
+
 ## 💬 Conecta Conmigo
 
 <p align="left">
