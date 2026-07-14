@@ -61,7 +61,7 @@ Mis principales áreas de acción incluyen:
 ## 🏆 Certificaciones y Logros
 
 - **Salesforce Trailhead:**
-  - **Trailblazer Innovator 2026** (Rumbo a 4-Star Ranger).
+  - **Trailblazer Innovator 2026** y **Four Star Ranger**.
   - **9 Superbadges:** Agentforce for Service, Advanced Flow for Agentforce, Apex for Agentforce, Prompt Builder Templates, entre otros.
   - **380+ Badges** y más de **169,000 puntos**.
 - **Lean Six Sigma:**
