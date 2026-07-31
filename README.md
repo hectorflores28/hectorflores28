@@ -62,10 +62,10 @@ Mis principales áreas de acción incluyen:
 
 - **Salesforce Trailhead:**
   - **Trailblazer Innovator 2026** y **Four Star Ranger**.
-  - **11 Superbadges:** Agentforce for Service, Advanced Flow for Agentforce, Apex for Agentforce, Prompt Builder Templates, entre otros.
-  - **444 Badges** y más de **190,000 puntos**.
+  - **19 Superbadges:** Agentforce for Service, Advanced Flow for Agentforce, Apex for Agentforce, Prompt Builder Templates, entre otros.
+  - **480 Badges** y más de **220,000 puntos**.
 - **Lean Six Sigma:**
-  - **White Belt** (International Lean Six Sigma, May 2026).
+  - **Yellow Belt** (International Lean Six Sigma, May 2026).
 - **FileMaker Inc.:**
   - **App Developer for Claris FileMaker Pro Specialist** (Oct 2023)
   - **App Developer for Claris Connect Expert** (Dec 2023)
