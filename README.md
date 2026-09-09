@@ -65,7 +65,7 @@ Mis principales áreas de acción incluyen:
   - **19 Superbadges:** Agentforce for Service, Advanced Flow for Agentforce, Apex for Agentforce, Prompt Builder Templates, entre otros.
   - **480 Badges** y más de **220,000 puntos**.
 - **Lean Six Sigma:**
-  - **Yellow Belt** (International Lean Six Sigma, May 2026).
+  - **Green Belt** (International Lean Six Sigma, Sep 2026).
 - **FileMaker Inc.:**
   - **App Developer for Claris FileMaker Pro Specialist** (Oct 2023)
   - **App Developer for Claris Connect Expert** (Dec 2023)
