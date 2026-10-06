@@ -26,7 +26,7 @@ Mis principales áreas de acción incluyen:
 
 ## 🚀 Proyectos Destacados
 
-- 🧠 **[OmniMCP-Container](https://github.com/hectorflores28/OmniMCP-Container):** Infraestructura local para IA. Contenedor Docker que integra MCP (Model Context Protocol) y APIs de Python para despliegue rápido de modelos.
+- 🧠 **[OmniMCP-Container](https://github.com/hectorflores28/MCP-Template):** Infraestructura local para IA. Contenedor Docker que integra MCP (Model Context Protocol) y APIs de Python para despliegue rápido de modelos.
 - ☁️ **[Agentforce-DX](https://github.com/hectorflores28/Agentforce-DX):** Showcase de Salesforce Agentforce. Integración de Agentes de IA para Hospitalidad y Dashboards de Real Estate utilizando Lightning Web Components (LWC).
 - 🛡️ **[WebAudit-Container](https://github.com/hectorflores28/WebAudit-Container):** Contenedor Docker para auditoría web y pentesting local seguro con entornos aislados Nginx.
 - 📊 **[ZenInvestSnap](https://github.com/hectorflores28/ZenInvestSnap):** Analizador visual financiero en Python. Captura, procesa mediante OCR y visualiza datos de forma automatizada.
